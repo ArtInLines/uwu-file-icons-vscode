@@ -1,0 +1,28 @@
+{
+	"name": "uwu-file-icons",
+	"displayName": "uwu-file-icons",
+	"description": "Exchanges Language File Icons with cuter UWU versions of them",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "UWU File Icons",
+				"uiTheme": "vs-dark",
+				"path": "./themes/UWU File Icons-color-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "uwu",
+				"label": "UWU",
+				"path": "./fileicons/uwu-icon-theme.json"
+			}
+		]
+	}
+}
