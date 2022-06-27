@@ -7,7 +7,7 @@
 			"iconPath": "./icons/c.svg"
 		},
 		"_cpp": {
-			"iconPath": "./icons/csharp.svg"
+			"iconPath": "./icons/cpp.svg"
 		},
 		"_csharp": {
 			"iconPath": "./icons/csharp.svg"
@@ -26,6 +26,7 @@
 		"git-rebase": "_git"
 	},
 	"fileExtensions": {
-		"gitignore": "_git"
+		"gitignore": "_git",
+		"h": "_c"
 	}
 }
