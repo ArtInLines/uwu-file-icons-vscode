@@ -2,26 +2,10 @@
 	"iconDefinitions": {
 		"_python": {
 			"iconPath": "./icons/pythowo.svg"
-		},
-		"_c": {
-			"iconPath": "./icons/trans_c.svg"
-		},
-		"_cpp": {
-			"iconPath": "./icons/trans_cpp.svg"
-		},
-		"_csharp": {
-			"iconPath": "./icons/trans_csharp.svg"
-		},
-		"_java": {
-			"iconPath": "./icons/trans_java.svg"
 		}
 	},
 
 	"languageIds": {
-		"python": "_python",
-		"c": "_c",
-		"cpp": "_cpp",
-		"csharp": "_csharp",
-		"java": "_java"
+		"python": "_python"
 	}
 }
