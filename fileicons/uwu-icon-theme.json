@@ -2,10 +2,22 @@
 	"iconDefinitions": {
 		"_python": {
 			"iconPath": "./icons/pythowo.svg"
+		},
+		"_c": {
+			"iconPath": "./icons/c.svg"
+		},
+		"_cpp": {
+			"iconPath": "./icons/csharp.svg"
+		},
+		"_csharp": {
+			"iconPath": "./icons/csharp.svg"
 		}
 	},
 
 	"languageIds": {
-		"python": "_python"
+		"python": "_python",
+		"c": "_c",
+		"cpp": "_cpp",
+		"csharp": "_csharp"
 	}
 }
