@@ -11,6 +11,9 @@
 		},
 		"_csharp": {
 			"iconPath": "./icons/csharp.svg"
+		},
+		"_git": {
+			"iconPath": "./icons/octokitten.svg"
 		}
 	},
 
@@ -18,6 +21,11 @@
 		"python": "_python",
 		"c": "_c",
 		"cpp": "_cpp",
-		"csharp": "_csharp"
+		"csharp": "_csharp",
+		"git-commit": "_git",
+		"git-rebase": "_git"
+	},
+	"fileExtensions": {
+		"gitignore": "_git"
 	}
 }
