@@ -28,5 +28,6 @@
 	"fileExtensions": {
 		"gitignore": "_git",
 		"h": "_c"
-	}
+	},
+	"showLanguageModeIcons": true
 }
